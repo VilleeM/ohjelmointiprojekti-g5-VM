@@ -2,4 +2,9 @@ var olio = {};
 
 function getOlio() {
   return olio;
+
+}
+
+function addPrpertyAgeToOlio(age) {
+ olio.age = age;
 }
