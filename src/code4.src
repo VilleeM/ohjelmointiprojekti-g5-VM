@@ -1,5 +1,9 @@
 var mj = 'kissa';
 
 function gitmerkkijono() {
- return mj
+ return mj;
+}
+
+function setMerkkijono(pmj) {
+  mj = pmj;
 }
