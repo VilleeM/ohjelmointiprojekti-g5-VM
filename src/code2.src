@@ -5,7 +5,8 @@ function getOlio() {
 
 }
 
-function addPrpertyIkaToOlio(age) {
+function addIkaToOlio(age) {
+
  olio.ika = age;
 }
 
@@ -13,4 +14,6 @@ function getIkaFromOlio(olio) {
   return olio.ika;
 }
 
-var y = [];
+var yz = [];
+
+
